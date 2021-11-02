@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		95036E6D273175E700068397 /* AppStorageExemple.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95036E6C273175E700068397 /* AppStorageExemple.swift */; };
 		95679D7D2731698D00091E01 /* ModaleExempleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95679D7C2731698D00091E01 /* ModaleExempleView.swift */; };
 		95679D7F27316B3100091E01 /* NavigationExemple.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95679D7E27316B3100091E01 /* NavigationExemple.swift */; };
 		956C7DF727314F5F00A5D0FA /* ExoArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956C7DF627314F5F00A5D0FA /* ExoArrays.swift */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		95036E6C273175E700068397 /* AppStorageExemple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorageExemple.swift; sourceTree = "<group>"; };
 		95679D7C2731698D00091E01 /* ModaleExempleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModaleExempleView.swift; sourceTree = "<group>"; };
 		95679D7E27316B3100091E01 /* NavigationExemple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationExemple.swift; sourceTree = "<group>"; };
 		956C7DF627314F5F00A5D0FA /* ExoArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExoArrays.swift; sourceTree = "<group>"; };
@@ -73,6 +75,7 @@
 				956C7DF82731542000A5D0FA /* ExoTextFieldBasic.swift */,
 				95679D7C2731698D00091E01 /* ModaleExempleView.swift */,
 				95679D7E27316B3100091E01 /* NavigationExemple.swift */,
+				95036E6C273175E700068397 /* AppStorageExemple.swift */,
 				956C7DFA2731553F00A5D0FA /* ExoButtons.swift */,
 				95E9102927302E1200889060 /* Assets.xcassets */,
 				95E9102B27302E1200889060 /* Preview Content */,
@@ -162,6 +165,7 @@
 				95E9102827302E1100889060 /* ContentView.swift in Sources */,
 				95679D7F27316B3100091E01 /* NavigationExemple.swift in Sources */,
 				95E9103427302E2300889060 /* ExoIfElse.swift in Sources */,
+				95036E6D273175E700068397 /* AppStorageExemple.swift in Sources */,
 				956C7DFB2731553F00A5D0FA /* ExoButtons.swift in Sources */,
 				95E9103627312E5100889060 /* ExoIfElseAvancé.swift in Sources */,
 				956C7DF727314F5F00A5D0FA /* ExoArrays.swift in Sources */,
