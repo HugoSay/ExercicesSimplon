@@ -29,13 +29,14 @@ struct ExoArrays: View {
                 }
             }
         }
+        .navigationTitle("Exo arrays")
     }
 }
 
 struct ExoArrays_Previews: PreviewProvider {
     static var previews: some View {
         NavigationView {
-            ExoArrays().navigationTitle("Exo arrays")
+            ExoArrays()
         }
     }
 }

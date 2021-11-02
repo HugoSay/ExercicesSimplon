@@ -54,14 +54,16 @@ struct ExoButtons: View {
                 }
 
             }
-        }.padding()
+        }
+        .navigationTitle("Buttons")
+        .padding()
     }
 }
 
 struct ExoButtons_Previews: PreviewProvider {
     static var previews: some View {
         NavigationView {
-            ExoButtons().navigationTitle("Buttons")
+            ExoButtons()
         }
     }
 }

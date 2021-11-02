@@ -22,6 +22,7 @@ struct ExoTextField: View {
                 Text("Use a **Form** to get this appearance")
             }
         }
+        .navigationTitle("Textfield")
         
     }
 }
@@ -29,7 +30,7 @@ struct ExoTextField: View {
 struct ExoTextField_Previews: PreviewProvider {
     static var previews: some View {
         NavigationView {
-            ExoTextField().navigationTitle("Textfield")
+            ExoTextField()
         }
     }
 }
